@@ -17,3 +17,10 @@ Extrair padrões e sentimentos presentes nos dados textuais de um e-commerce: cl
 
 
 
+**Realizado:**
+
+*Transformação de dados textuais em formatos numéricos para que algoritmos de Machine Learning.*
+*Exploração de frequência das palavras, criação de visualizações gráficas etratamento de textos, remoção de elementos indesejados como stopwords, pontuações e acentuações. Também uso de tecnicas tais como o stemming, que reduz palavras ao seu radical, e o valor TF-IDF, que ajuda a avaliar a importância de cada palavra.*
+*Uso de N-grams para capturar o contexto das palavras e foi salvo e testado esse modelo com os novos dados.*
+
+
